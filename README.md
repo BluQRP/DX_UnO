@@ -1,6 +1,7 @@
-![DX UnO 1](https://github.com/BluQRP/DX_UnO/assets/172842404/8f4ea7b4-5b00-49d4-b80f-90a46b6f9aa3)
-
 DX UnO - Arduino Uno based Digital Modes HF QRPp Transceiver.
+
+![DX UnO 1](https://github.com/BluQRP/DX_UnO/assets/172842404/7f909ef0-bcc3-4346-ad93-95e305b5dee4)
+
 
 DX UnO is an Arduino Uno based HF Digital Modes QRPp Multiband Transceiver. DX is abbreviation for Digital Xceiver.
 
