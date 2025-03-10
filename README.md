@@ -9,7 +9,7 @@ to create a 400 milliwatts average RF Output power QRPp portable HF Digital Mode
 
 DX UnO  can operate on any of these five bands of 20m, 17m, 15m, 12m and 10m bands and operates on popular digital modes such as  FT8, FT4, JS8call and WSPR and similar tonal modes.
 
-DX Uno is fully CAT controlled and can be used with any Software that emulates KENWOOD TS-2000 and KENWOOD TS-140S with 9600bps.
+DX Uno is fully CAT controlled and emulates KENWOOD TS-2000 and KENWOOD TS-140S Transceivers with 9600bps.
 
 DX UnO uses a TTL based RF PA, not PA mosfets which are prone to failure. The advantage of this TTL Logic Chip based RF Power Amplifier is that 
 it is extremely resistant to SWR mishaps such as high SWR cases and antenna mishaps as antenna short or TX without antenna. 
