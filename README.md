@@ -26,6 +26,8 @@ It can be used with other microcontroller families also such as Raspberry pi or 
 
 DX UnO can be modified to work as a stand alone WSPR Transmitter by just adding a GPS module and connecting 4 wires to Arduino Uno board and loading Stand alone GPS WSPR Firmware. All details are included in DX UnO Github page. 
 
+https://github.com/BluQRP/DX_UnO/tree/main/DX%20UnO%20Standalone%20WSPR%20Transmitter%20conversion
+
 DX UnO STANDALONE WSPR TRANSMITTER:
 ![IMG_0777](https://github.com/user-attachments/assets/1ef55470-142c-4312-8336-d469d9686f78)
 
