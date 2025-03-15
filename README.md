@@ -25,3 +25,7 @@ It is a suitable kit for a beginner and for seasoned ham operators to carry in t
 It can be used with other microcontroller families also such as Raspberry pi or pi pico etc for experimentation. The audio output jack which is denoted as MIC has both I and Q outputs of  TAYLOE Quadrature Sampling detector which can be used to experiment with SDR SSB decoding firmware or with SDR PC applications like HDSDR.
 
 DX UnO can be modified to work as a stand alone WSPR Transmitter by just adding a GPS module and connecting 4 wires to Arduino Uno board and loading Stand alone GPS WSPR Firmware. All details are included in DX UnO Github page. 
+
+DX UnO STANDALONE WSPR TRANSMITTER:
+![IMG_0777](https://github.com/user-attachments/assets/1ef55470-142c-4312-8336-d469d9686f78)
+
