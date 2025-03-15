@@ -23,7 +23,7 @@ DX UnO kit is designed to be an easy transceiver kit to solder, operate and expe
 It is a suitable kit for a beginner and for seasoned ham operators to carry in their backpack for SOTA/POTA activations or for travel. The advantage of portability comes from simplicity of no need for external power supply and resilient antenna conditions RF PA.
 
 It can be used with other microcontroller families also such as Raspberry pi or pi pico etc for experimentation. The audio output jack which is denoted as MIC has both I and Q outputs of  TAYLOE Quadrature Sampling detector which can be used to experiment with SDR SSB decoding firmware or with SDR PC applications like HDSDR.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DX UnO can be modified to work as a stand alone WSPR Transmitter by just adding a GPS module and connecting 4 wires to Arduino Uno board and loading Stand alone GPS WSPR Firmware. All details are included in DX UnO Github page. 
 
 https://github.com/BluQRP/DX_UnO/tree/main/DX%20UnO%20Standalone%20WSPR%20Transmitter%20conversion
